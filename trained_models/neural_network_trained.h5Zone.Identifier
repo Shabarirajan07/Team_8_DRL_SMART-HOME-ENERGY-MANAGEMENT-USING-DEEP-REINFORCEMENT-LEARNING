@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/wa7med/HEM-DeepRL-v2/blob/master/trained_models/neural_network_trained.h5
+HostUrl=https://raw.githubusercontent.com/wa7med/HEM-DeepRL-v2/refs/heads/master/trained_models/neural_network_trained.h5
